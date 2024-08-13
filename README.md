@@ -1,2 +1,1 @@
-These are the documentations regarding the project done during my internship period
-and Certificate of internship is attached 
+Designing and prototyping a Li-ion Battery LED indicator based on voltage and real-world drive range of Electric Bicycles, and also designing a Diagnostics Tool for Electric Bicycles, which would be a hand-held tool for service technicians in identifying the point of failure in the vehicle.
